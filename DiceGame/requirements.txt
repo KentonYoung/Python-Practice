@@ -1,0 +1,17 @@
+#Write a game where two player take turne rolling dice, and the highest score after 3 roles wins.
+#Use python
+#Define functions in a helper folder
+# Data Structures
+# Dice roll = sum of 2 random int
+# Player resultes = dictionary of ints
+# While the rolls are below 3
+    # Select the active player
+    # Prompt for them to roll
+    #Display result
+    #Update Result
+    #Check WIn or NExt Turn
+
+# Functional Component
+# Game Loop While PLayer 2 has less than 3 rolls and the game has not be quit
+# Turn Handler, Which players turn is it
+# Dice Roller - Generate two random numbers between 1 and 6, sum them, return result
